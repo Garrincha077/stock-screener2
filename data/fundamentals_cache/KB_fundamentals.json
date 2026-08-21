@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KB",
-    "fetch_date": "2026-08-13T13:58:00.731127",
+    "fetch_date": "2026-08-21T22:14:38.387935",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 5320913000000.0,
       "2025-06-30 00:00:00": 5412457000000.0,
@@ -23,6 +23,16 @@
     "inventory_breakdown_available": false,
     "extended_fundamentals_model": "upstream-yfinance-additive-v1",
     "fundamental_data_source": "yfinance",
+    "quarterly_operating_cash_flow": {
+      "2024-12-31 00:00:00": NaN,
+      "2025-03-31 00:00:00": NaN,
+      "2025-06-30 00:00:00": NaN,
+      "2025-09-30 00:00:00": NaN,
+      "2025-12-31 00:00:00": NaN,
+      "2026-03-31 00:00:00": 1546684000000.0
+    },
+    "operating_cash_flow_qoq_change": null,
+    "operating_cash_flow_yoy_change": null,
     "quarterly_capex": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": -168663000000.0,
@@ -82,6 +92,6 @@
       "2026-03-31"
     ]
   },
-  "fetched_at": "2026-08-13T13:58:00.731813",
-  "extended_fetched_at": "2026-08-19T11:56:04.646289"
+  "fetched_at": "2026-08-21T22:14:38.491021",
+  "extended_fetched_at": "2026-08-21T22:14:38.491021"
 }
